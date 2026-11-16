@@ -29,7 +29,7 @@ My first repository, **app-dev**, now has a README about my favorite movie!
 ## My Movie Checklist
 
 - [x] Watched the original Thai version
-- [ ] Watch the Philippine adaptation
+- [x] Watch the Philippine adaptation
 
 ## Top 3 Things I Enjoy
 
